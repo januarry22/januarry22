@@ -2,7 +2,8 @@
 <h3>🍒 Hi There! This is @januarry22 Tech GitHub ! 🍒</h3>
   <p><a href="mailto:tlswldnjs8865@gmail.com">Click contact to me 🎵</a></p>
 <p>👀 I'm Studying Java programmings, Server Engineering and Etc..</p>
-<!-- <p>What</p> -->
+<p>📚 these days.. Interested in Algorithm and AWS architectures </p>
+
   
 #
 <h3> Out of works </h3>
